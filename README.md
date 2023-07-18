@@ -1,9 +1,8 @@
-# Huan Hao Wu
+# Hi, I'm Huan Hao Wu 👋👨‍💻
+<!--
+<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+-->
 I'm a software engineer student with a strong passion for web, mobile, and game development. I am dedicated to honing my skills in these areas and constantly exploring new technologies and frameworks. I find immense joy in creating interactive and immersive experiences for users across various platforms.Some technologies I enjoy working with include ReactJS, ReactNative, Tailwindcss, ThreeJS and GSap.I also enjoy wireframing, ui, ux, and design in general.
-
-<br>Im currently working on my own projects ✍️<br>Im looking to collaborate with others developers 🤝<br>Im currently learning web and game development 💻<br>Im looking for team working ⭐
-
-
 
 ## 💻 Tech Stack:
 <img align="left"  width="30" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
