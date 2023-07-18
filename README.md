@@ -3,9 +3,8 @@ I'm Huan Hao from Dominican Republic, and I
 
 <br>Im currently working on my own projects ✍️<br>Im looking to collaborate with others developers 🤝<br>Im currently learning web and game development 💻<br>Im looking for team working ⭐
 <br/>
-
-### 💻 Tech Stack:
 #
+### 💻 Tech Stack:
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -25,15 +24,13 @@ I'm Huan Hao from Dominican Republic, and I
 -->
 
 <br/>
-
-### 🌐 Socials:
 #
+### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/huanhaowu) 
 
 <br/>
-
-### 📊 GitHub Stats:
 #
+### 📊 GitHub Stats:
 <!-- 
 ![](https://github-readme-stats.vercel.app/api?username=huanhaowu&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 -->
