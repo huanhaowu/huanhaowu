@@ -32,7 +32,7 @@ I'm Huan Hao from Dominican Republic, and I
 ![](https://github-readme-streak-stats.herokuapp.com/?user=huanhaowu&theme=react&hide_border=false)
 -->
 
-| <a href=""><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huanhaowu&theme=react&hide_border=false" alt="Huan Hao's github stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huanhaowu&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></a> |
+| <a href="https://github.com/huanhaowu"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huanhaowu&theme=react&hide_border=false" alt="Huan Hao's github stats" /></a> | <a href="https://github.com/huanhaowu"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huanhaowu&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></a> |
 | ------------- | ------------- |
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
