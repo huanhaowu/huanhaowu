@@ -17,10 +17,10 @@ I'm Huan Hao from Dominican Republic, and I
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
 <img align="left" alt="PowerBi" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/powerbi.svg" />
 <img align="left" alt="mySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg" />
+<br/>
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=huanhaowu&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=huanhaowu&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=huanhaowu&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+| <a href="https://github.com/huanhaowu"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huanhaowu&theme=react&hide_border=false" alt="Huan Hao's github stats" /></a> | <a href="https://github.com/huanhaowu"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huanhaowu&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></a> |
+| ------------- | ------------- |
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
