@@ -3,11 +3,7 @@
 ## 💫 About Me:
 Im currently working on my own projects ✍️<br>Im looking to collaborate with others developers 🤝<br>Im currently learning web and game development 💻<br>Im looking for team working ⭐
 
-### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/huanhaowu) 
-
 #
-
 
 ### 💻 Tech Stack:
 
@@ -31,6 +27,10 @@ Im currently working on my own projects ✍️<br>Im looking to collaborate with
 
 #
 
+### 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/huanhaowu) 
+
+#
 
 ### 📊 GitHub Stats:
 <!-- 
