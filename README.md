@@ -6,7 +6,7 @@ I'm Huan Hao from Dominican Republic, and I
 
 
 ## 💻 Tech Stack:
-<img align="left" height="20" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+<img align="left" height="20" width="30" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
 <br>
 <br>
 
