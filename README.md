@@ -21,7 +21,7 @@ I'm a software engineer student with a strong passion for web, mobile, and game 
 <br>
 
 ## 📊 GitHub Stats:
-| <a href="https://github.com/huanhaowu"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huanhaowu&theme=react&hide_border=false" alt="Huan Hao's github stats" /></a> | <a href="https://github.com/huanhaowu"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huanhaowu&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></a> |
+| <a href="https://github.com/huanhaowu">[<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huanhaowu&theme=react&hide_border=false" alt="Huan Hao's github stats" />](https://github-readme-stats.vercel.app/api?username=huanhaowu&show_icons=true&theme=radical)</a> | <a href="https://github.com/huanhaowu"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huanhaowu&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></a> |
 | ------------- | ------------- |
 
 <!-- 
